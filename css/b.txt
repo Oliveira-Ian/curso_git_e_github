@@ -1,2 +1,4 @@
 Testando uma atualização (modificação) de arquivo, através do Git Hub.
 Após será realizado o comando Git Pull, na minha máquina Local, para receber essas atualizações
+
+Teste - Enviando atualização para o repositório 'clone'.
