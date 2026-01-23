@@ -1,3 +1,7 @@
 Hello World
 
 Test - Features - Branch Develop
+
+Teste - Git Stash
+
+Test - Git Tag
