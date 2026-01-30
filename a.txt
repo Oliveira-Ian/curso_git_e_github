@@ -5,3 +5,5 @@ Test - Features - Branch Develop
 Test - Git diff
 Test - Git diff 2
 Test - Git diff - File
+
+Test - git clean
